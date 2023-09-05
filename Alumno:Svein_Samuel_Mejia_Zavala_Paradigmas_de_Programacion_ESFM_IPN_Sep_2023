@@ -1,0 +1,15 @@
+Instalar git:
+-Ir a soporte
+ udiesfmin 1936
+sudo. apt-get install git
+sudo apt-get update
+sudo apt-get upgrade
+
+
+Instructivo de git
+git clone___________ URL del repositorio
+git add____________  archivo
+git commint_m   "Instructivo
+
+git push
+~   
